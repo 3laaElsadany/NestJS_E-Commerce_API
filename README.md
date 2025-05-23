@@ -50,7 +50,7 @@ Create a `.env` file in the root directory with the following variables:
 DB_TYPE=mysql
 DB_HOST=localhost 
 DB_PORT=3306
-DB_USERNAMEyour_username
+DB_USERNAME=your_username
 DB_PASSWORD=your_password
 DB_NAME=your_database
 DB_SYNC=false
