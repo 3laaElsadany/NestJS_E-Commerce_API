@@ -39,7 +39,7 @@ src/
 ├── users/               # User management
 ├── utility/             # Shared modules (guards, middlewares, etc.)
 ├── app.module.ts        # Root module
-├── main.ts              # Application entry point
+└── main.ts              # Application entry point
 ```
 
 ### Environment Configuration
